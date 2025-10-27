@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+__pycache__/
+
+# Environment variables
+.env
+
+# FAISS and uploaded documents
+app/vector_store/
+app/documents/
+
+# VSCode
+.vscode/
+
+# macOS
+.DS_Store
