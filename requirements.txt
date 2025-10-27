@@ -1,10 +1,10 @@
 fastapi
 uvicorn
-python-multipart
 python-dotenv
-langchain
 sentence-transformers
 faiss-cpu
-requests
-PyMuPDF
 python-docx
+pymupdf
+requests
+langchain-text-splitters
+pydantic
